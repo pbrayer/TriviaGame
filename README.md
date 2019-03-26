@@ -16,3 +16,5 @@ Who maintains and contributes to the project
 Sam Reimann
 
 Please remember to play with sound on for full immersion.
+
+https://pbrayer.github.io/TriviaGame/
